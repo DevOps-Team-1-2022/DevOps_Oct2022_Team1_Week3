@@ -11,3 +11,5 @@ pip install webdriver-manager
 ```
 pytest <selenium test script filename>.py –v
 ```
+
+Please refer to teams for test case documentation (Team-1>Files>Week3_practical_testcase)
