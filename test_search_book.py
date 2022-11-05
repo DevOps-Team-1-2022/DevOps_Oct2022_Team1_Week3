@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def test_eight_components():
+def test_search_book():
     driver = webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
 
     driver.get("https://www.nlb.gov.sg/main/home")
