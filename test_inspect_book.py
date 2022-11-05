@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def test_inspectBook():
+def test_inspect_book():
     driver = webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
 
     driver.get("https://search.nlb.gov.sg/onesearch/Search?query=harry%20potter&cont=book")
