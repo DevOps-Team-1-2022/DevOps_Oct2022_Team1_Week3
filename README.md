@@ -28,8 +28,9 @@ Please refer to teams for test case documentation (Team-1>Files>Week3_practical_
 | 6 | test_render_our_role.py | ![image](https://user-images.githubusercontent.com/73124349/200123550-8c68cc6c-176b-45eb-b22f-dd197056da44.png)
 | 7 | test_home_to_nlb_membership_navigation.py | ![image](https://user-images.githubusercontent.com/73012553/200123930-304135ac-9d3b-4546-ace4-276e4d983a14.png)
 | 8 | test_render_facilities.py | ![image](https://user-images.githubusercontent.com/73012553/200123937-2a9c6d36-3915-49d0-b98c-e8a1baf45f63.png)
-| 9 | |
-| 10 | |
+| 9 | test_login |![image](https://user-images.githubusercontent.com/73088199/200155312-79a6017b-9c3a-45d1-be3c-fa75484e3872.png)
+| 10| test_navigate_library_location | ![image](https://user-images.githubusercontent.com/73088199/200155451-2d5593eb-22db-4380-a606-f623971fe871.png)
+
 
 
 
