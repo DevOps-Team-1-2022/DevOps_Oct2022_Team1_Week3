@@ -8,7 +8,7 @@ def test_loginD():
     driver = webdriver.Chrome(service=ChromeService(executable_path=ChromeDriverManager().install()))
 
     driver.get("https://www.nlb.gov.sg/main/home")
-
+    driver.maximize_window()
     # Check page title
     title = driver.title
     assert title == "Home"
